@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stephendjohnston
+## Hey there, I'm Stephen 👋
 - 🇨🇦 currently residing in Stratford, PEI.
-- 🌱 I’m currently in the final course of the Launch School core curriculum!
+- I’m currently in the final course of the Launch School core curriculum!
 - I have experience in Ruby, JavaScript, SQL, HTML and CSS.
 - 📫 How to reach me: sdjohnston1990@gmail.com
 
