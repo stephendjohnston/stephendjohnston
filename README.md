@@ -1,7 +1,7 @@
-## Hey there, I'm Stephen 👋
+### Hey there, I'm Stephen 👋
 - 🇨🇦 currently residing in Stratford, PEI.
-- I’m currently in the final course of the Launch School core curriculum!
-- I have experience in Ruby, JavaScript, SQL, HTML and CSS.
+- 👨‍💻 currently in the final course of the Launch School core curriculum!
+- 💻 experience in Ruby, JavaScript, SQL, HTML and CSS.
 - 📫 How to reach me: sdjohnston1990@gmail.com
 
 <!---
