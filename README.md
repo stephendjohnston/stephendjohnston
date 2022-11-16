@@ -1,7 +1,7 @@
 ### Hey there, I'm Stephen 👋
 🇨🇦 currently residing in Stratford, PEI.  
 
-👨‍💻 currently in the final course of the Launch School core curriculum!  
+👨‍💻 currently in preparation for Launch School's Capstone program!
 
 💻 experience in Ruby, JavaScript, SQL, HTML and CSS.  
 
