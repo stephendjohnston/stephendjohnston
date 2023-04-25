@@ -1,11 +1,9 @@
 ### Hey there, I'm Stephen 👋
 🇨🇦 currently residing in Stratford, PEI.  
 
-👨‍💻 A recent graduate of Launch School's Capstone program!
+💻 I have experience in Ruby, JavaScript, Go, SQL, React, jQuery, Docker, AWS (CDK, ECS, EC2, IAM, CloudMap), HTML and CSS.  
 
-💻 experience in Ruby, JavaScript, Go, SQL, React, jQuery, Docker, AWS (CDK, ECS, EC2, IAM, CloudMap), HTML and CSS.  
-
-📑 Co-Creator of Herald - an observability solution that simplifies the deployment of the ELK stack. Read more [here](https://herald-app.github.io/)!
+📑 Creator of Herald - an open-source observability solution built on the ELK stack. Read the case study [here](https://herald-app.github.io/)!
 
 🌎 For more info: https://stephendjohnston.github.io/
 <!---
