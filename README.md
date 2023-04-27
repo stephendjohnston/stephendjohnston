@@ -1,6 +1,6 @@
 ### Hey there, I'm Stephen!
 
-I am a full-stack Software Developer based in Prince Edward Island (PEI), Canada.
+I am a full-stack Software Developer based in Prince Edward Island (PEI), Canada. 🇨🇦
 
 Most recently, I created Herald - an open-source observability solution built on the ELK stack. 
 Read the case study [here](https://herald-app.github.io/)!
