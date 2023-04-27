@@ -7,9 +7,9 @@ Read the case study [here](https://herald-app.github.io/)!
 
 Skills:
 
-**Languages & Frameworks:** JavaScript, Ruby, Go, SQL, React, Express, Sinatra, Handlebars, jQuery, Jest, HTML/CSS
-**Cloud:** AWS (CDK, EC2, ECS, EFS, IAM, Lambda, CloudMap, CloudWatch, Fargate), Digital Ocean Droplets, Heroku, Fly.io
-**Other Technologies:** Node.js, Git/Github, Docker, Nginx, MongoDB, HTTP, Bash, RESTful APIs, Linux, postgreSQL, ELK stack (Elasticsearch, Logstash, Kibana)
+- **Languages & Frameworks:** JavaScript, Ruby, Go, SQL, React, Express, Sinatra, Handlebars, jQuery, Jest, HTML/CSS
+- **Cloud:** AWS (CDK, EC2, ECS, EFS, IAM, Lambda, CloudMap, CloudWatch, Fargate), Digital Ocean Droplets, Heroku, Fly.io
+- **Other Technologies:** Node.js, Git/Github, Docker, Nginx, MongoDB, HTTP, Bash, RESTful APIs, Linux, postgreSQL, ELK stack (Elasticsearch, Logstash, Kibana)
 
 - [Personal Website](https://stephendjohnston.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/stephendjohnston/)
