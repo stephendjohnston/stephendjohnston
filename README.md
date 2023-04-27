@@ -11,6 +11,8 @@ Skills:
 - **Cloud:** AWS (CDK, EC2, ECS, EFS, IAM, Lambda, CloudMap, CloudWatch, Fargate), Digital Ocean Droplets, Heroku, Fly.io
 - **Other Technologies:** Node.js, Git/Github, Docker, Nginx, MongoDB, HTTP, Bash, RESTful APIs, Linux, postgreSQL, ELK stack (Elasticsearch, Logstash, Kibana)
 
+For more details:
+
 - [Personal Website](https://stephendjohnston.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/stephendjohnston/)
 
