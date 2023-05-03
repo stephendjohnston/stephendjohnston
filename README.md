@@ -2,6 +2,9 @@
 
 I am a full-stack Software Developer based in Prince Edward Island (PEI), Canada. 🇨🇦
 
+I have multiple years of experience in the JavaScript and Ruby ecosystems,
+as well as experience with various frameworks and AWS.
+
 Most recently, I co-created Herald - an open-source observability solution built on the ELK (Elasticsearch, Logstash, Kibana) stack. 
 Read the case study [here](https://herald-app.github.io/)!
 
