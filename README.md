@@ -1,6 +1,6 @@
 ### Hey there, I'm Stephen!
 
-I am a full-stack Software Developer based in Guelph, Ontario, Canada. 🇨🇦
+I am a full-stack software developer based in Guelph, Ontario, Canada. 🇨🇦
 
 I have multiple years of experience in the JavaScript and Ruby ecosystems,
 as well as experience with various frameworks and AWS.
